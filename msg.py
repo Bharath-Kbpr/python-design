@@ -17,5 +17,5 @@ def send_sms(number,message):
     print(dic)
 
 
-send_sms("9182780240","this is bharath")
+send_sms("_your number__","message")
 
